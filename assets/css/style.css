@@ -1,0 +1,163 @@
+* {
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Space Mono', monospace;
+}
+
+body {
+	background-color: black;
+}
+
+.blacknav {
+	background-color: black;
+}
+
+.blackbar {
+	background-color: black;
+}
+
+ul > li {
+	text-decoration: none;
+}
+
+.mid {
+	height: 100vh;
+	background-color: black;
+}
+
+#navBrand {
+	margin-right: 0;
+}
+
+#petrol {
+	max-width: 100%; 
+	height: auto;
+	margin: auto;
+}
+
+#profile {
+	max-width: 100%;
+	height: auto;
+	margin: auto;
+}
+
+#projectreq {
+	height: 15vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+#navBrand {
+	font-family: 'Space Mono';
+  	font-style: normal;
+  	font-weight: 700;
+}
+
+
+
+#footer {
+	font-size: 1.5vh;
+}	
+
+
+#header {
+	
+	font-size: 5vh;
+}
+
+#intro {
+	font-size: 1.8vh
+}
+
+#resume {
+	font-size: 1.7vh;
+}
+
+
+
+
+
+
+
+
+
+
+/*media queries*/
+
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	
+
+
+
+   	#mid {
+	   height: 90vh;
+	{
+   
+
+  
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+	#mid {
+		height: 50vh;
+
+   {
+
+   /* #mid {
+	height: 150vh;
+} */
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	
+	#greybar {
+   	background-color: #191919;
+   
+	 }
+   
+   #mid { 
+	   height: 100vh;
+	}
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+
+	#mid {
+		height: 200vh;
+		background-color: red;
+	
+	}
+
+	
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+	
+	#mid {
+		height: 200vh;
+		background-color: red;
+	
+
+	}
+
+
