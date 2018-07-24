@@ -1,4 +1,4 @@
-# avcvz
-avcvz design and development 
+# avcvz design & development
+devportfolio final
 
-see project: https: https://www.avcvz.design/
+see project: https://www.avcvz.design/
